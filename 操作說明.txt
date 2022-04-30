@@ -1,0 +1,9 @@
+姓名:吳翊楷
+學號:00957205
+---------------------------------
+編譯 : g++ main.cpp -o main    
+執行 : .\main 
+會跑textbook.asm
+如導入其它asm
+執行 : .\main you_file_name.asm
+輸出 : textbook.obj
